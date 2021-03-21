@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tower of Hanoi</string>
+    <string name="easy">Easy Mode</string>
+    <string name="medium">Medium Mode</string>
+    <string name="hard">Hard Mode</string>
+    <string name="instruction">Instructions</string>
+    <string name="move">Moves:  </string>
+    <string name="best_moves">Best: 7</string>
+    <string name="move_value">0</string>
+</resources>
